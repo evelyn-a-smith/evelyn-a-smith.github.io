@@ -24,7 +24,7 @@ Publications
 
 * "[Hidden Errors in Big Data: The Case of Property Records](https://arxiv.org/abs/2607.28827)" With Emma Harvey, Jacob Goldin, and Daniel E. Ho. Forthcoming, Proceedings of the Ninth AAAI/ACM Conference on AI, Ethics, and Society (AIES-26), Malmö, Sweden, October 12-14, 2026.
 * "[Tradeoffs are Domain Dependent: Improving Accuracy and Fairness in Property Tax Assessments](https://dl.acm.org/doi/abs/10.1145/3805689.3812318)" With Emma Harvey, Christopher R. Berry, Jacob Goldin, and Daniel E. Ho. FAccT '26: The 2026 ACM Conference on Fairness, Accountability, and Transparency (June 2026).
-* "[Measuring and Mitigating Racial Disparities in Taxpayer Audits](https://academic.oup.com/qje/article-abstract/140/1/113/7778259?login=false)" With Hadi Elzayn, Thomas Hertz, Cameron Guage, Arun Ramesh, Robin Fisher, Daniel E Ho, and Jacob Goldin. Quarterly Journal of Economics (February 2025).
+* "[Measuring and Mitigating Racial Disparities in Tax Audits](https://academic.oup.com/qje/article-abstract/140/1/113/7778259?login=false)" With Hadi Elzayn, Thomas Hertz, Cameron Guage, Arun Ramesh, Robin Fisher, Daniel E. Ho, and Jacob Goldin. Quarterly Journal of Economics (February 2025).
 * "[Who’s on (the 1040) First? Determinants and Consequences of Spouses’ Name Order on Joint Returns](https://link.springer.com/article/10.1007/s10797-024-09876-3)" With Emily Lin, Joel Slemrod, and Alexander Yuskavage. International Tax and Public Finance (January 2025).
 
 Works in Progress
@@ -78,7 +78,7 @@ Honors and Awards
 
 Prior Appointments
 ======
-* Visiting Fellow, Stanford Reglab, September 2020-August 2022
+* Visiting Fellow, Stanford RegLab, September 2020-August 2022
 * Graduate Student Volunteer, U.S. Internal Revenue Service, June 2018-November 2024
 * Research Assistant to Professor Nirupama Rao, University of Michigan Ross School of Business, September 2018-May 2020
 * Research Assistant to Professor Sarah Miller, University of Michigan Ross School of Business, September 2017-May 2018
