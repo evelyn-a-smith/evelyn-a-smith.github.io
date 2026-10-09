@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! My name is Evelyn, and I'm a Research Social Scientist at the American Bar Foundation and a Postdoctoral Affiliate with Stanford's RegLab and the Mansueto Institute at the University of Chicago. An economist by training, my work combines applied microeconomics, legal analysis, and data science to examine questions of equity and efficiency in tax administration, with particular emphasis on the predictive models central to modern tax administration and enforcement. My work has been featured in the [New York Times](https://www.nytimes.com/2023/01/31/us/politics/black-americans-irs-tax-audits.html), [Washington Post](https://www.washingtonpost.com/business/2023/01/23/primary-taxpayer-husband-wife/), and [NPR's Morning Edition](https://www.npr.org/2023/02/01/1153150854/does-the-irs-audit-some-people-more-often-than-others). 
+Welcome! My name is Evelyn, and I'm a Research Social Scientist at the American Bar Foundation and a Postdoctoral Affiliate with Stanford's RegLab and the Mansueto Institute at the University of Chicago. An economist by training, my work combines applied microeconomics, legal analysis, and data science to examine questions of equity and efficiency in tax administration, with particular emphasis on the predictive models that increasingly decide who gets audited and how much each household pays in taxes. My work has been featured in the [New York Times](https://www.nytimes.com/2023/01/31/us/politics/black-americans-irs-tax-audits.html), [Washington Post](https://www.washingtonpost.com/business/2023/01/23/primary-taxpayer-husband-wife/), and [NPR's Morning Edition](https://www.npr.org/2023/02/01/1153150854/does-the-irs-audit-some-people-more-often-than-others). 
 
-I received my PhD in Business and Economics from the University of Michigan in 2024. When I'm not writing papers, I can be found on the climbing wall, with my nose in a book, or else out in the field with my Minolta X-370.  
+I received my PhD in Business and Economics from the University of Michigan in 2024. When I'm not writing papers, I can be found on the climbing wall, with my nose in a book, or crocheting something nice for my friends.  
 
 
 Recent Updates
